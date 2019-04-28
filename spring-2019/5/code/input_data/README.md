@@ -1,4 +1,4 @@
-MNIST DATASET 
+**MNIST DATASET**
 
 Available here: http://yann.lecun.com/exdb/mnist/index.html
 
