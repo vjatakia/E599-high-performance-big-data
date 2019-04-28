@@ -25,5 +25,7 @@ For each of the above configurations, we vary the number of epochs as 10,100,100
 The following were the observations: 
 
 1.As the number of cores increases, the accuracy for a specific number of epochs increases suggesting that the computations are becoming more efficient. 
+
 2.There is a tradeoff to be considered here between the accuracy and the computation time in order to decide the most efficient config to be used. 
+
 3.The selection of the ideal config will vary from application to application. For example, a medical application will require emphasis on a good accuracy as compared to time, while a financial application will require faster results as compared to accurate results. 
